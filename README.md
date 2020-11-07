@@ -15,6 +15,8 @@ It is an excellent dataset for people who want to try learning techniques of dee
 
 # Download Datasets
 
+![Datasets](https://data-flair.s3.ap-south-1.amazonaws.com/Data-Science-Data/face-mask-dataset.zip)
+
 ![Sample DataSets](https://data-flair.s3.ap-south-1.amazonaws.com/Data-Science-Data/face-mask-dataset.zip)
 
 
